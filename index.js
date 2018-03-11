@@ -21,8 +21,13 @@ function sayHiToGrandma(string){
     return "YES INDEED!"
   }
 
+<<<<<<< HEAD
   if(string==="I love you, Grandma."){
     return "I love you, too."
   
+=======
+  if(string===("I love you, Grandma..")){
+    return "I love you, too."
+>>>>>>> c0f19f4cf770a2fa8f176211290aacdb5ea87eba
   }
 }
